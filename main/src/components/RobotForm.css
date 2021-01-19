@@ -1,0 +1,22 @@
+.container {
+    width: 10%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin: 20px;
+    background-color: #115278;
+    color: #fff;
+    padding: 10px;
+}
+
+.container input, .container label, .container button {
+    margin-top: 10px;
+}
+
+.container input {
+    padding: 10px;
+    width: 100px;
+}
+
